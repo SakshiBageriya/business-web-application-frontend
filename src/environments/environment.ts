@@ -1,3 +1,3 @@
 export const environment = {
-	apiUrl: 'https://business-web-application.onrender.com'
+	apiUrl: 'https://business-web-application.onrender.com/api'
 };

@@ -1,6 +1,6 @@
 [build]
   command = "npm run build"
-  publish = "dist/YOUR-PROJECT-NAME/browser"
+  publish = "dist/ganesh/browser"
 
 [[redirects]]
   from = "/*"
